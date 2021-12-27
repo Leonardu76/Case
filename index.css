@@ -1,0 +1,56 @@
+
+
+body {
+    background: linear-gradient(7deg,  #041cf1f6, #50113d, #08b34a );
+    background-size: 190% 250%;
+}
+
+
+#text {
+
+    background-color: rgba(219, 13, 13, 0.308);    
+    color: cornsilk;
+    padding: 90px;
+    border-radius: 30px ;
+    border:double;
+    box-shadow: 4px 2px 9px 7px rgba(85, 9, 9, 0.507) ;
+
+}
+#text2{
+
+    background-color: rgba(219, 13, 13, 0.075);    
+    color: cornsilk;
+    padding: 90px;
+    border-radius: 30px ;
+    border:double;
+    box-shadow: 4px 2px 9px 7px rgba(85, 9, 9, 0.507) ;
+}
+#cont{
+    
+    padding: 10px;
+    text-align: center;  
+}
+#cont2{
+    padding: 10px;
+    text-align: center; 
+     
+}
+#select{
+    background-color: rgba(185, 8, 161, 0.603);
+    text-align:center;
+    color: rgb(252, 249, 249);   
+    border-radius: 30px ;
+
+
+}
+#submit{
+color: rgb(252, 249, 249);   
+background-color: rgba(128, 14, 103, 0.507); 
+border-radius: 30px ;
+} 
+#botao{
+    color: rgb(248, 244, 244);   
+    background-color: rgba(128, 14, 103, 0.349); 
+    border-radius: 30px ;
+   
+}    
